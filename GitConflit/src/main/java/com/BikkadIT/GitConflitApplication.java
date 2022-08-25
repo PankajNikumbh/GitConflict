@@ -8,6 +8,9 @@ public class GitConflitApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(GitConflitApplication.class, args);
+		
+		
+		String msg="Good morning";
 	}
 
 }
