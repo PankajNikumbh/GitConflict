@@ -10,7 +10,11 @@ public class GitConflitApplication {
 		SpringApplication.run(GitConflitApplication.class, args);
 		
 		
+
+		String msg="Welcome to Bikkad IT";
+
 		String msg="Good morning";
+
 	}
 
 }
